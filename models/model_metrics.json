@@ -1,0 +1,13 @@
+{
+    "Test_R2": 0.8387,
+    "Adjusted_R2": 0.7026,
+    "MAE": 0.8822,
+    "RMSE": 2.0391,
+    "MAPE_pct": 25.71,
+    "Best_Hyperparameters": {
+        "max_depth": 10,
+        "min_samples_leaf": 1,
+        "min_samples_split": 2,
+        "n_estimators": 100
+    }
+}
